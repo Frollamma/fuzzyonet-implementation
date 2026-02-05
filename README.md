@@ -1,6 +1,6 @@
 # FuzzyONet
 
-We give an implementation of FuzzyONet as in described in [FuzzyONet paper](TODO_missing_link)
+We give an implementation of FuzzyONet as in described in the [FuzzyONet paper](TODO_missing_link).
 
 ## Install
 
