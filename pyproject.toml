@@ -10,6 +10,9 @@ dependencies = [
   "scikit-learn>=1.8.0",
   "xanfis>=1.1.0",
 ]
+authors = [
+  { name = "Francesco Lucibello", email = "" },
+]
 
 [tool.uv.sources]
 scikit-anfis = { git = "https://github.com/Frollamma/scikit-anfis.git" }
