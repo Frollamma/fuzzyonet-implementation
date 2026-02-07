@@ -15,7 +15,7 @@ Otherwise, you will need to install the deps manually or change the `pyproject.t
 
 ## Run
 
-TODO: this python notebook is intended to be the main presentation of our work, but at the moment it's empty, read the
+TODO: this python notebook is intended to be the main presentation of our work, but at the moment it's empty, read the [current status of the work](/CONTRIBUTING.md).
 
 - Enter the python virtual environment
 - Run
