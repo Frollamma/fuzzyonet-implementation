@@ -6,13 +6,12 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
   "jupyter>=1.1.1",
+  "numpy>=1.26.0",
   "scikit-anfis>=1.2.1",
   "scikit-learn>=1.8.0",
   "xanfis>=1.1.0",
 ]
-authors = [
-  { name = "Francesco Lucibello", email = "" },
-]
+authors = [{ name = "Francesco Lucibello" }]
 
 [tool.uv.sources]
 scikit-anfis = { git = "https://github.com/Frollamma/scikit-anfis.git" }
